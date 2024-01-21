@@ -4,6 +4,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:lucky_games/consts.dart';
+import 'package:lucky_games/features/games/widgets/logo.dart';
+import 'package:lucky_games/features/games/widgets/onboarding_logo.dart';
 import 'package:lucky_games/router/router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -58,7 +60,7 @@ class _OnboardingScreenState extends State<OnboardingScreen>
       curve: Curves.easeInOutQuart,
     );
     _logoAnimation = Tween<Offset>(
-      begin: const Offset(0, 1),
+      begin: const Offset(0, 2),
       end: const Offset(0, 0.4),
     ).animate(curvedLogoAnimation);
     Future.delayed(const Duration(milliseconds: 1000), () {
@@ -153,12 +155,7 @@ class _OnboardingScreenState extends State<OnboardingScreen>
                     if (state.id == 0) {
                       return SlideTransition(
                         position: _logoAnimation,
-                        child: SvgPicture.asset(
-                          state.imagePath!,
-                          width: width / 3.5,
-                          height: height / 3.5,
-                          fit: BoxFit.fitHeight,
-                        ),
+                        child: const OnboardingLogo(),
                       );
                     } else if (state.id == onboardingPages.length - 1) {
                       return Padding(

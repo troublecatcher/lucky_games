@@ -6,6 +6,8 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:lucky_games/features/games/widgets/back.dart';
 
+import '../games/widgets/logo.dart';
+
 @RoutePage()
 class TermsOfUseScreen extends StatelessWidget {
   const TermsOfUseScreen({super.key});
@@ -32,9 +34,9 @@ class TermsOfUseScreen extends StatelessWidget {
             child: Stack(
               children: [
                 const Back(),
-                Align(
+                const Align(
                   alignment: Alignment.topCenter,
-                  child: SvgPicture.asset('assets/shared/logo.svg'),
+                  child: Logo(),
                 ),
                 Align(
                     alignment: Alignment.center,

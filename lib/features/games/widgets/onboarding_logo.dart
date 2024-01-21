@@ -4,8 +4,8 @@ import 'package:flutter_svg/flutter_svg.dart';
 
 import 'gradient_text.dart';
 
-class Logo extends StatelessWidget {
-  const Logo({super.key});
+class OnboardingLogo extends StatelessWidget {
+  const OnboardingLogo({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -19,14 +19,14 @@ class Logo extends StatelessWidget {
             Color(0xFF662AFB),
           ]),
           style: Theme.of(context).textTheme.displayLarge?.copyWith(
-                fontSize: 22.5.sp,
+                fontSize: 32.5.sp,
                 fontWeight: FontWeight.w800,
               ),
         ),
         Text(
           'GAMES',
           style: Theme.of(context).textTheme.displayLarge?.copyWith(
-              fontSize: 22.5.sp,
+              fontSize: 32.5.sp,
               fontWeight: FontWeight.w800,
               color: Colors.white),
         )
