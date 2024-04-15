@@ -14,15 +14,11 @@
 
 ### Match Pairs Game
 
-<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/eba16b6f-759d-41e2-996a-df00cfdfcc23" width="50%"/>
-<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/6e08b7ac-e57b-4715-9e8a-a9554845deae" width="50%"/>
-
-<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/54220671-20e3-4ad4-b7c9-56b80cfaa7c2" width="50%"/>
+<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/a8b864f0-3b65-466b-96b2-0ff33e9f08a2" width="50%"/>
 
 ### Minesweeper Game
 
-<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/6171a38b-0489-42bd-9544-89c294c84517" width="50%"/>
-<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/588956d0-8b30-4d4d-b72a-494887e1d653" width="50%"/>
+<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/2bbe0b35-d562-4493-8e51-203f3a372151" width="50%"/>
 
 ### Settings
 
