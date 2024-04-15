@@ -1,4 +1,5 @@
 # Lucky Games App
+#### Two arcade games application with balance tracking
 ## Features
 ### Onboarding
 
