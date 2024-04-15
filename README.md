@@ -15,8 +15,7 @@
 
 ### Minesweeper Game
 
-<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/6171a38b-0489-42bd-9544-89c294c84517" width="50%"/>
-<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/588956d0-8b30-4d4d-b72a-494887e1d653" width="50%"/>
+<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/588956d0-8b30-4d4d-b72a-494887e1d653" width="50%"/> <img src="https://github.com/troublecatcher/lucky_games/assets/91335963/6171a38b-0489-42bd-9544-89c294c84517" width="50%"/>
 
 ### Settings
 
