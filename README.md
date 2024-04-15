@@ -2,7 +2,7 @@
 ## Features
 ### Onboarding
 
-<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/eac65f31-9e9c-42d2-8d0b-6c17533233a0" width="50%"/>
+<img src="https://github.com/troublecatcher/lucky_games/assets/91335963/137fe362-6c03-49b1-b150-b9a33c1a264c" width="50%"/>
 
 ### Home Screen
 
